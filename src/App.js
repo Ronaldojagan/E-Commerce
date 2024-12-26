@@ -16,11 +16,14 @@ const App = () => {
   const handleAddProduct = (product) =>{
     const ProductExist= cartItems.find((item) => item.id === product.id);
     if(ProductExist){
+      alert("This product is already in this cart")
       setCartItems(
         cartItems.map((item) =>
+          
            item.id === product.id
          ? {...ProductExist,quantity: ProductExist.quantity + 1}
           : item
+          
         )
       );
       }else{
@@ -48,13 +51,14 @@ const App = () => {
     <Router>
       
       <Header cartItems={cartItems} />
+      
       <Routes 
         cartItems={cartItems}
         handleAddProduct={handleAddProduct}
         handleRemoveProduct={handleRemoveProduct}
         handleCartClearance={handleCartClearance}
       />
-      <Home />
+      
     </Router>
   </div>
     </>
