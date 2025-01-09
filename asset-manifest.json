@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/burgerzpoints/static/css/main.4e88ac15.css",
-    "main.js": "/burgerzpoints/static/js/main.a673fb3c.js",
-    "static/js/453.ed3810f9.chunk.js": "/burgerzpoints/static/js/453.ed3810f9.chunk.js",
-    "static/media/home_01_delivery.png": "/burgerzpoints/static/media/home_01_delivery.c90cc55bba52fb6dc004.png",
-    "static/media/floating_burger_01.png": "/burgerzpoints/static/media/floating_burger_01.ccc6ad7bbbd4642dcb4f.png",
-    "static/media/floating_burger_02.png": "/burgerzpoints/static/media/floating_burger_02.228af776b87a2dcbbec6.png",
-    "static/media/hero_footer.jpg": "/burgerzpoints/static/media/hero_footer.34006131cab8020df70a.jpg",
-    "static/media/hero_about_us.jpg": "/burgerzpoints/static/media/hero_about_us.b1881e233b9415e92ef9.jpg",
-    "static/media/floating_fries_02-removebg-preview.png": "/burgerzpoints/static/media/floating_fries_02-removebg-preview.d8e7fe0ec766ab60dd9e.png",
-    "static/media/reviews_02.png": "/burgerzpoints/static/media/reviews_02.ade35a33c0e3cf1418f7.png",
-    "static/media/reviews_03.png": "/burgerzpoints/static/media/reviews_03.e3b7e53797eb92a0e3bb.png",
-    "static/media/inner_image_02.jpg": "/burgerzpoints/static/media/inner_image_02.99de792d1c298190afe4.jpg",
-    "static/media/floating_fries_01.png": "/burgerzpoints/static/media/floating_fries_01.5f32fcfcce55dc2d0252.png",
-    "static/media/inner_image_03.jpg": "/burgerzpoints/static/media/inner_image_03.6fcc12becdc488e193be.jpg",
-    "static/media/featured_image_shop.jpg": "/burgerzpoints/static/media/featured_image_shop.495885cef3818c6806e1.jpg",
-    "static/media/reviews_01.png": "/burgerzpoints/static/media/reviews_01.ac21c56b040c2da47276.png",
-    "static/media/inner_image_04.jpg": "/burgerzpoints/static/media/inner_image_04.eb5463c7daab23f67459.jpg",
-    "static/media/reviews_04.png": "/burgerzpoints/static/media/reviews_04.49c3191d2c7a46fb3334.png",
-    "index.html": "/burgerzpoints/index.html",
-    "main.4e88ac15.css.map": "/burgerzpoints/static/css/main.4e88ac15.css.map",
-    "main.a673fb3c.js.map": "/burgerzpoints/static/js/main.a673fb3c.js.map",
-    "453.ed3810f9.chunk.js.map": "/burgerzpoints/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/E-commerce/static/css/main.4e88ac15.css",
+    "main.js": "/E-commerce/static/js/main.18561fe2.js",
+    "static/js/453.ed3810f9.chunk.js": "/E-commerce/static/js/453.ed3810f9.chunk.js",
+    "static/media/home_01_delivery.png": "/E-commerce/static/media/home_01_delivery.c90cc55bba52fb6dc004.png",
+    "static/media/floating_burger_01.png": "/E-commerce/static/media/floating_burger_01.ccc6ad7bbbd4642dcb4f.png",
+    "static/media/floating_burger_02.png": "/E-commerce/static/media/floating_burger_02.228af776b87a2dcbbec6.png",
+    "static/media/hero_footer.jpg": "/E-commerce/static/media/hero_footer.34006131cab8020df70a.jpg",
+    "static/media/hero_about_us.jpg": "/E-commerce/static/media/hero_about_us.b1881e233b9415e92ef9.jpg",
+    "static/media/floating_fries_02-removebg-preview.png": "/E-commerce/static/media/floating_fries_02-removebg-preview.d8e7fe0ec766ab60dd9e.png",
+    "static/media/reviews_02.png": "/E-commerce/static/media/reviews_02.ade35a33c0e3cf1418f7.png",
+    "static/media/reviews_03.png": "/E-commerce/static/media/reviews_03.e3b7e53797eb92a0e3bb.png",
+    "static/media/inner_image_02.jpg": "/E-commerce/static/media/inner_image_02.99de792d1c298190afe4.jpg",
+    "static/media/floating_fries_01.png": "/E-commerce/static/media/floating_fries_01.5f32fcfcce55dc2d0252.png",
+    "static/media/inner_image_03.jpg": "/E-commerce/static/media/inner_image_03.6fcc12becdc488e193be.jpg",
+    "static/media/featured_image_shop.jpg": "/E-commerce/static/media/featured_image_shop.495885cef3818c6806e1.jpg",
+    "static/media/reviews_01.png": "/E-commerce/static/media/reviews_01.ac21c56b040c2da47276.png",
+    "static/media/inner_image_04.jpg": "/E-commerce/static/media/inner_image_04.eb5463c7daab23f67459.jpg",
+    "static/media/reviews_04.png": "/E-commerce/static/media/reviews_04.49c3191d2c7a46fb3334.png",
+    "index.html": "/E-commerce/index.html",
+    "main.4e88ac15.css.map": "/E-commerce/static/css/main.4e88ac15.css.map",
+    "main.18561fe2.js.map": "/E-commerce/static/js/main.18561fe2.js.map",
+    "453.ed3810f9.chunk.js.map": "/E-commerce/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e88ac15.css",
-    "static/js/main.a673fb3c.js"
+    "static/js/main.18561fe2.js"
   ]
 }
