@@ -168,7 +168,7 @@ body{
 .card2text{
     font-size: 1rem;
     color:white;
-    font-weight: 700;
+    font-weight:600;
     padding:30px;
 }
 .card2text:hover{
@@ -270,8 +270,7 @@ body{
     margin-top: 50px;
 }
 .cardimg1{
-    margin-left: 20px;
-    margin-top: -30px;
+    margin-left:40px;
 }
 .containercontent-4{
     position: relative;
@@ -354,6 +353,7 @@ body{
     background-color: white;
     transition: background-color 1s;
 }
+
      /*====================================================bodycontent5=========================================================*/
 
 
@@ -588,7 +588,7 @@ body{
         font-family: "Kalnia Glaze", serif;
         top: 100px;
         margin-left: 200px;
-        color: #f5e7c1;
+        color: #fff;
         font-size: 20rem;
         font-weight: 700;
     }
@@ -612,7 +612,7 @@ body{
         margin-left: 50px;
         font-size: 3.5rem;
         font-weight: 700;
-        color: #f5e7c1;
+        color: #fff;
         font-family: "Kalnia Glaze", serif;
     }
     .review2{
@@ -623,7 +623,7 @@ body{
         top: 100px;
         font-size: 3.5rem;
         font-weight: 700;
-        color: #f5e7c1;
+        color: #fff;
         font-family: "Kalnia Glaze", serif;
     }
     .content7txt3{
@@ -632,7 +632,7 @@ body{
         left: 50px;
         font-size: 3.5rem;
         font-weight: 700;
-        color: #f5e7c1;
+        color: #fff;
         font-family: "Kalnia Glaze", serif;
     }
     .review4{
@@ -644,7 +644,7 @@ body{
         left:0px;
         font-size: 3.5rem;
         font-weight: 700;
-        color: #f5e7c1;
+        color: #fff;
         font-family: "Kalnia Glaze", serif;
     }
     
