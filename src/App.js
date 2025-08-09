@@ -2,8 +2,7 @@ import React,{ useState } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/front/header/header';
-import Home from './components/front/header/home/home';
-import Routes from './components/front/header/Routes/Route';
+import AppRoutes from './components/front/header/Routes/AppRoutes';
 import { BrowserRouter as Router } from 'react-router-dom';
 import AOS from 'aos';
 import 'aos/dist/aos.css'; 
@@ -48,17 +47,14 @@ const App = () => {
   return (
     <>
   <div>
-    <Router>
-      
+    <Router basename="/E-commerce">
       <Header cartItems={cartItems} />
-      
-      <Routes 
+      <AppRoutes
         cartItems={cartItems}
         handleAddProduct={handleAddProduct}
         handleRemoveProduct={handleRemoveProduct}
         handleCartClearance={handleCartClearance}
       />
-      
     </Router>
   </div>
     </>
